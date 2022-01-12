@@ -101,3 +101,6 @@ console.log(setD.values())
 setD.delete("a");
 console.log(setD.has("a"));
 console.log(setD.add("d")); //return array not true and false
+console.log(setD.add("d")); //return array not true and false
+
+
