@@ -235,6 +235,7 @@ bst.add(10);
 console.log(bst.findMinHeight());
 console.log(bst.findMaxHeight());
 console.log(bst.isBalanced());
+
 console.log('inOrder: ' + bst.inOrder());
 console.log('preOrder: ' + bst.preOrder());
 console.log('postOrder: ' + bst.postOrder());
